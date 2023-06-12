@@ -4,6 +4,7 @@ title:  "ChatGPTをビジネスで利用するための導入教育"
 description: " "
 date:   2023-06-09 20:05:37 +0900
 categories: jekyll update
+permalink: /post/1
 ---
 ## 目的
 
