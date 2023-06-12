@@ -4,3 +4,8 @@
 
 layout: home
 ---
+# 個人的なメモ
+## 目次
+- [ChatGPTをビジネスで利用するための導入教育]({% post_url 2023-06-09-chatgpt-introduction %})
+
+

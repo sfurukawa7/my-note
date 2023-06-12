@@ -1,9 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "ChatGPTをビジネスで利用するための導入教育"
 date:   2023-06-09 20:05:37 +0900
 categories: jekyll update
 ---
+# ChatGPTをビジネスで利用するための導入教育
+
+## 目的
+**技術を理解してもらうことで実現可能なアイデアを多く出してもらうため**
+
+	実現可能なアイデアを出すために何をすればいい？
+		すでに実現されている事例を知る（トップダウン）
+		解決可能なタスクを知る！（これが欲しい）
+		技術そのものを知る（ボトムアップ）
+	ソリューション
+		
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
